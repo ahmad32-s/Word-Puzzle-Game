@@ -1,4 +1,5 @@
 #WORD-PUZZLE-GAME
+
 To run this game, Follow the following instructions:
 1. Download the Game_code.cpp, dictionary.txt and board.txt files.
 2. PLace these files in project folder of the compiler you are using.
